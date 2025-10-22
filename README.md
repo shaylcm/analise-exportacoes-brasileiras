@@ -59,7 +59,5 @@ Identificar os **produtos brasileiros mais exportados**, a fim de gerar **insigh
 ---
 
 ## 📊 Dashboard Power BI
-👉 **Acesse o Dashboard Interativo:** [https://app.powerbi.com/links/bj6NS-MBxc?ctid=659ce2b8-0714-4198-8c38-dc9b60aabb57&pbi_source=linkShare&bookmarkGuid=cd826a5e-14e8-4317-a256-957ca8895ba8]
+👉 **Acesse o Dashboard Interativo:** [https://app.powerbi.com/view?r=eyJrIjoiNWE2NmQ0MDYtYjM3MS00NWQwLWJjZDAtZWVkMTc1ZTM1MGViIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9]
 
-
----
